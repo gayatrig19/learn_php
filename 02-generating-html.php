@@ -13,6 +13,7 @@
     .body-5 { background-color: skyblue; }
     .body-6 { background-color: gray; }
 </style>
+<!-- Basics of text Generation: Creating dynamic background colors -->
 <body class="body-<?php echo rand(1,6); ?>">
     <?php echo '<h1>Hello from PHP!!</h1>'; ?> 
 </body>
