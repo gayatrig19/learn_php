@@ -8,5 +8,6 @@
 <body>
     <h1><?php echo 'Hello from PHP!'; ?></h1>
     <h1>This is my first .php file</h1>
+    <h2>A Dice roll: <?php echo rand(1, 6); ?></h2>
 </body>
 </html>
