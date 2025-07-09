@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,8 +12,9 @@
     <h1>Culinary Cove</h1>
     <p>Your sanctuary for exceptional flavors</p>
     <nav>
-      <a href="our-mission.php">Our mission</a>
-      <a href="ingredients.php">Ingredients</a>
+      <a href="our-mission.php" aria-label="Go to our-mission page">Our mission</a>
+      <a href="ingredients.php" aria-label="Go to the ingredients page">Ingredients</a>
+      <a href="menu.php" aria-label="Go to the menu page">Menu</a>
     </nav>
   </header>
 
