@@ -1,4 +1,10 @@
-<?php include 'include/header.inc.php'; ?>
+<?php 
+  
+  $pageTitle = 'Ingredients';
+  $headerImg = './assets/images/pexels-julia-volk-5273044.jpg';
+  include 'include/header.inc.php'; 
+
+?>
     <h1>Our ingredients</h1>
     <p>
       At Culinary Cove, our ethos is deeply rooted in the belief that

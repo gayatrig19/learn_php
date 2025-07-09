@@ -1,4 +1,10 @@
-<?php include 'include/header.inc.php'; ?>
+<?php 
+
+  $pageTitle = 'Our mission';
+  $headerImg = './assets/images/pexels-engin-akyurt-1435904.jpg';
+  include 'include/header.inc.php'; 
+  
+?>
 
     <h1>Our mission</h1>
     <p>
