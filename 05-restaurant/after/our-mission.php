@@ -8,14 +8,14 @@
     <title>Culinary Cove &bull; Our mission</title>
 </head>
 <body>
-    <header class=".header-with-background" style="background-image: url('images/pexels-julia-volk-5273044.jpg'); ">
+    <header class="header-with-background" style="background-image: url('./assets/images/pexels-julia-volk-5273044.jpg'); ">
         <h1>Culinary Cove</h1>
         <p>Your sanctuary for exceptional flavors</p>
         <nav>
-            <a href="our-mission.html" aria-label="Go to our-mission page">
+            <a href="our-mission.php" aria-label="Go to our-mission page">
                 Our mission
             </a>
-            <a href="ingredients.html" aria-label="Go to ingredients page">
+            <a href="ingredients.php" aria-label="Go to ingredients page">
                 Ingredients
             </a>
         </nav>
