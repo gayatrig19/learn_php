@@ -38,7 +38,15 @@
     <p><?php 
     
     $abcd = 'It is a variable';
-    echo "My last echo, {$abcd}"; ?></p>
+    echo "My last echo, {$abcd}"; 
+    
+    echo "Welcome back!\nWe're glad to see you again.</br>Check out our new features.";
+
+    echo '<br />';
+    $promo = "Summer Sale";
+    echo "Seasonal offer!! Use \"{$promo}\" for and exclusive discount.";
+    ?></p>
+
     
 </body>
 </html>
